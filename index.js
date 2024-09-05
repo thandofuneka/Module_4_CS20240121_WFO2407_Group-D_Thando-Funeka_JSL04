@@ -12,8 +12,8 @@ console.log(userPreference === 'Sugar-free' ? 'Sugar-free' : 'Regular');
 // You have a variable that tracks the number of Monster Energy cans left in the fridge. 
 // Use a ternary operator to print "Time to restock!" if the number is less than 5, or "We're stocked!" if the number is 5 or more.
 
-let cansLeft = 3; // Any number of cans
-console.log(cansLeft < 5 ? 'Time to restock!' : 'We\'re stocked!');
+let cansLeft = 6; // Any number of cans
+console.log(cansLeft < 5 ? 'Time to restock!' : 'We are stocked!');
 
 
 // #### Challenge 3: Workout Intensity
